@@ -1,5 +1,5 @@
 Optimized USER.cfg for Star Citizen
-Tested on Version 3.19.0
+Tested on Version 3.21.0
 
 INSTRUCTIONS
 1. Move USER.cfg file to Star Citizen installation folder *\Roberts Space Industries\StarCitizen\LIVE
